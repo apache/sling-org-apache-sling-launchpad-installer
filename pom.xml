@@ -30,9 +30,9 @@
     </description>
 
     <scm>
-        <connection>scm:svn:http://svn.apache.org/repos/asf/sling/trunk/launchpad/installer</connection>
-        <developerConnection>scm:svn:https://svn.apache.org/repos/asf/sling/trunk/launchpad/installer</developerConnection>
-        <url>http://svn.apache.org/viewvc/sling/trunk/launchpad/installer</url>
+        <connection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-launchpad-installer.git</conncetion>
+        <developerConnection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-launchpad-installer.git</developerConnection>
+        <url>https://gitbox.apache.org/repos/asf?p=sling-org-apache-sling-launchpad-installer.git</url>
     </scm>
 
     <build>
